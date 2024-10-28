@@ -23,14 +23,19 @@ Este análisis utiliza datos de casos positivos de COVID-19 proporcionados por e
 ### Moran Scatterplot y Mapas de Clusters
 - Gráficos y mapas detallan la intensidad de los casos y la agrupación de valores altos y bajos a nivel provincial.
 
-#### Mapas 
+#### Gráficos
 
 3. Índice de Moran
+   
 ![image](https://github.com/user-attachments/assets/990372d8-cf53-49bc-904c-789ee4644ccf)
 
-4. Análisis LISA
+
+5. Análisis LISA
+   
 ![image](https://github.com/user-attachments/assets/01cce74b-01c0-480f-9b21-71e144cdcccc)
 
-5. LISA Bivariado
+
+6. LISA Bivariado
+   
 ![image](https://github.com/user-attachments/assets/a69ee4dd-8780-450c-a24f-a09c591bd046)
 
