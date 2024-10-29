@@ -1,4 +1,4 @@
-# Análisis Espacial de Casos de COVID-19 en Perú (2020-2024) - [Tarea 4](https://yharaaa.github.io/Tarea-4/)
+# Análisis Espacial de Casos de COVID-19 en Perú (2021) - [Tarea 4](https://yharaaa.github.io/Tarea-4/)
 
 ## Introducción y Fuente de Datos
 Este análisis utiliza datos de casos positivos de COVID-19 proporcionados por el Ministerio de Salud de Perú (MINSA) a través de su plataforma de datos abiertos. [Enlace a la base de datos](https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa). 
